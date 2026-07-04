@@ -116,9 +116,9 @@ function createSplashScreen() {
     splash.id = "sq-splash-container";
     
     splash.innerHTML = `
-        <div class="logo-wrapper">
-            <img src="file:///C:/Users/SADQ/OneDrive/الصور/SADA.jpeg" class="user-3d-avatar" alt="SQ Logo" onerror="this.src='SADA.jpeg'">
-        </div>
+       <div class="logo-wrapper">
+    <img src="SADQ.jpeg" class="user-ld-avatar" alt="SQ Logo" onerror="this.src='SADQ.jpeg'">
+</div>
         
         <!-- الاسم مع التوهج الأصفر الغامض خلفه -->
         <div class="brand-name-glow">SADQ</div>
